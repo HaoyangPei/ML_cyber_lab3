@@ -1,5 +1,6 @@
 # ML_cyber_lab3
-[![Open In Colab](https://colab.research.google.com/drive/1VZ0L-s29ENbmdZBOeN9zOZkrYbqa-JFy?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VZ0L-s29ENbmdZBOeN9zOZkrYbqa-JFy?usp=sharing)
+
 ```
 ├── models
     └── bd_net_prune_acc2.9.h5 // Repaired networks for X={2%,4%,10%,30%}
